@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+/***************/
+/* YOUR STYLES */
+/***************/
+
+/* Color Palette */
+
+.color-1 {background: red;}
+
+.color-2 {background: white;}
+
+.color-3 {background: black;}
+
+.color-4 {background: gray}
+
+
+
+/* Textures or Patterns*/
+
+.pattern-1 {background: url("../img/ep_naturalblack.png"); 
+}
+
+
+
+/* Imagery */
+
+
+div.imagery-1 img {
+    border: none; 
+    box-shadow: 0 0 10px green;
+}
+
+/* Icons */
+
+
+.icon-1 {
+    border: none; 
+}
+
+
+/* Navigation */
+
+a:link,
+a:visited{
+    color:coral;
+    text-decoration: none; 
+
+}
+
+a:hover,
+a:active{
+    
+    border-bottom: 4px solid aquamarine;
+}
+
+a:focus {
+    background: teal;
+}
+
+
+/* Typography */
+
+h1 {
+    font-family: 'Muli', sans-serif;}
+
+h3 {
+    font-family: 'Muli', sans-serif;
+    color: red;}
+
+p {
+    line-height: 1.5em;
+}
+
