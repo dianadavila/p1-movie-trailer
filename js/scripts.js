@@ -1,6 +1,6 @@
 // Scripts
 
-$('h1').lettering();
+$('h1').lettering(words);
 
 
 // Media Element Player

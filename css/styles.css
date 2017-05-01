@@ -1,5 +1,79 @@
 /* Styling */
 body {
-    background: rgba(0, 240, 194, 0.71);
+    background: black;}
+
+img {padding-top: 50px;}
+
+
+h1 {color: white;
+    font-family: 'Helvetica Neue', Helvetica,Arial, sans-serif;
+    font-weight: normal;
+    font-size: 6em;
+    letter-spacing: 2px;
+    align-content: center;
 }
 
+h2 { color: white;
+    font-family: 'Helvetica Neue', Helvetica,Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 18px;
+    letter-spacing: 3px;
+    align-content: center;
+    padding-top: 100px;
+}
+
+h3 {color: white;
+    font-family: 'Helvetica Neue', Helvetica,Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+    letter-spacing: 2px;
+    align-content: center;
+
+}
+
+
+h4 {color: white;
+    font-family: 'Helvetica Neue', Helvetica,Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+    letter-spacing: 2px;
+    align-content: center;}
+
+h5 {color: white;
+    font-family: 'Helvetica Neue', Helvetica,Arial, sans-serif;
+    font-weight: boldr;
+    font-size: 15px;
+    letter-spacing: 2px;
+    align-content: center;}
+
+
+
+h6 {color: Red;
+    font-family: 'Helvetica Neue', Helvetica,Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 50px;
+    letter-spacing: 2px;
+    align-content: center;
+    text-transform: uppercase;
+    margin-bottom: auto;
+    margin-top: 20px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
